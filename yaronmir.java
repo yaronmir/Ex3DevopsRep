@@ -1,7 +1,7 @@
 public class yaronmir{
 public static void main(String[] args) {
 for (int i=1;i<=10; i++) {
-System.out.println("Hello I'm Yaron..."+i);
+System.out.println("Hello I'm Yaron, and this is a different print..."+i);
 }
 }
 }
